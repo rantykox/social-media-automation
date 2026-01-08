@@ -1,4 +1,4 @@
-# social-media-automation-account-scaling
+# social-media-automation
 
 This project is a production-grade social media automation system built for safe, scalable account growth across multiple platforms. It focuses on account isolation, automated posting, and growth workflows while minimizing detection risks through anti-detect browsers and controlled automation.
 
@@ -13,7 +13,7 @@ This project is a production-grade social media automation system built for safe
 </p>
 <p align="center">
 Created by Appilot, built to showcase our approach to Automation! <br>
-If you are looking for custom <strong> social media automation account scaling </strong>, you've just found your team — Let’s Chat.&#128070; &#128070;
+If you are looking for custom <strong> social media automation </strong>, you've just found your team — Let’s Chat.&#128070; &#128070;
 </p>
 
 ## Introduction
